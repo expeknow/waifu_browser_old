@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Waifu Browser</string>
+    <string name="options">Options</string>
+    <string name="loading_waifu_text">Fetching Waifu... Please Wait!</string>
+</resources>
